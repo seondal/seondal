@@ -5,7 +5,7 @@
 
 내이름은 좌마각   
 
-whkakrkr [*JwaMaGak*]   
+whkakrkr [*ʤɑɱɑɡɑʁ*]   
 Born in *2001* :cake:   
 📫 whkakrkr@gmail.com    
 
