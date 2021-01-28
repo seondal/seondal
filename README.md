@@ -12,6 +12,7 @@
 떠볽뻐뷦투희맣어 
 
 Born in **2001** :cake:     
-Attending **E.Univ** Majoring in **CSE**   
+Attending **E.Univ** Majoring in **Computer Science & Enginnering**   
 📫 whkakrkr@gmail.com    
+_   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
