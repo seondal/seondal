@@ -5,7 +5,8 @@
 
 내이름은 좌마각   
 
-Born in **2001** :cake:   
+Call me *JwaMaGak*   
+Born in *2001* :cake:   
 📫 whkakrkr@gmail.com    
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
