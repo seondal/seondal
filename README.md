@@ -7,6 +7,7 @@
 
 whkakrkr [*Jwa Ma Gak*]   
 Born in *2001* :cake:   
+My *README.MD* has two parts : the explaination of project // Record of learning from this project   
 📫 whkakrkr@gmail.com    
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
