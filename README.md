@@ -5,8 +5,6 @@
 
 내이름은 좌마각   
 </br>
-whkakrkr [*Jwa Ma Gak*]  
-
 
 Born in *2001* :cake:   
 
