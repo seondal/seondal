@@ -10,7 +10,7 @@ whkakrkr [*Jwa Ma Gak*]
 
 Born in *2001* :cake:   
 
-My *README.md* in each repository has two parts : the explaination of project // Record of learning from this project  
+My *README.md* in each repository has two parts : Explaination of project // Record of learning from this project  
 
 📫 whkakrkr@gmail.com    
 
