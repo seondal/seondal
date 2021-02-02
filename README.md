@@ -6,6 +6,8 @@
 내이름은 좌마각   
 </br>
 
+whkakrkr [Jwa Ma Gak]   
+
 Born in *2001* :cake:   
 
 My *README.md* in each repository has two parts : Explaination of project // Record of learning from this project  
