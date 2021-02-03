@@ -13,8 +13,6 @@ My *README.md* in each repository has two parts : Explaination of project // Rec
 
 📫 whkakrkr@gmail.com    
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
-
 </br>
 
 Now I'm studying
@@ -22,3 +20,5 @@ Now I'm studying
 - Swift (2020.06~)
 - Python (2021.02~)
 - RUby (2021.02~)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
