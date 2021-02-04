@@ -7,11 +7,13 @@
 
 whkakrkr [Jwa Ma Gak]  
 
-Born in *2001* :cake:   
-
-My *README.md* in each repository has two parts : Explaination of project // Record of learning from this project  
+:cake: Born in *2001*    
 
 📫 whkakrkr@gmail.com    
+
+:memo: [https://whkakrkr.tistory.com/](https://whkakrkr.tistory.com/)   
+
+My *README.md* in each repository has two parts : Explaination of project // Record of learning from this project  
 
 </br>
 
