@@ -21,6 +21,6 @@ Now I'm studying
 - C++ (2020.03~)
 - Swift (2020.06~)
 - Python (2021.02~)
-- Rby (2021.02~)
+- Ruby (2021.02~)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
