@@ -7,15 +7,13 @@
 
 whkakrkr [Jwa Ma Gak]  
 
-:cake: Born in *2001*    
+:cake: *Born in* 2001    
 
 📫 whkakrkr@gmail.com    
 
-:camera: Instagram @keep_coding_
+:camera: *Instagram* @keep_coding_
 
 :memo: [https://whkakrkr.tistory.com/](https://whkakrkr.tistory.com/)   
-
-My *README.md* in each repository has two parts : Explaination of project // Record of learning from this project  
 
 </br>
 
@@ -24,5 +22,6 @@ Now I'm studying
 - Swift (2020.06~)
 - Python (2021.02~)
 - Ruby (2021.02~)
+- Java (2021.03~)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
