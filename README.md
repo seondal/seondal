@@ -7,13 +7,13 @@
 
 whkakrkr [Jwa Ma Gak]  
 
-:cake: *Born in* 2001    
+:cake: *Born in* 2001, Korea       
 
-📫 whkakrkr@gmail.com    
+📫 *Email* whkakrkr@gmail.com    
 
 :camera: *Instagram* @keep_coding_
 
-:memo: [https://whkakrkr.tistory.com/](https://whkakrkr.tistory.com/)   
+:memo: *Blog* [https://whkakrkr.tistory.com/](https://whkakrkr.tistory.com/)   
 
 </br>
 
