@@ -20,7 +20,7 @@ whkakrkr [Jwa Ma Gak]
 </br>
 
 Now I'm studying   
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
 
 - C++ (2020.03~)
 - Swift (2020.06~)
