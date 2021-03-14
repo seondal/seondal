@@ -24,7 +24,7 @@
 2020.06~ <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>      
 2021.02~ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>   
 2021.03~ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>   
-2020.02~ ⬇️**Solving Algrithm Problems in [BaekJoon](https://whkakrkr.tistory.com/category/%EB%B0%B1%EC%A4%80%20OJ) & [오일러OJ](https://whkakrkr.tistory.com/category/%EC%98%A4%EC%9D%BC%EB%9F%AC%20OJ%20%20%282021.03~%29)**   
+2020.02~ ⬇️**Solving Algrithm in [BaekJoon](https://whkakrkr.tistory.com/category/%EB%B0%B1%EC%A4%80%20OJ) & [오일러OJ](https://whkakrkr.tistory.com/category/%EC%98%A4%EC%9D%BC%EB%9F%AC%20OJ%20%20%282021.03~%29)**   
 </br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
 
