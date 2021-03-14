@@ -11,11 +11,11 @@ whkakrkr [Jwa Ma Gak]
 
 :cake: *Born in* 2001, Korea       
 
-📫 *Email* whkakrkr@gmail.com    
+📫 *Email* _ whkakrkr@gmail.com    
 
-:camera: *Instagram* **@keep_coding_**
+:camera: *Instagram* _ **@keep_coding_**
 
-:memo: *Blog* [https://whkakrkr.tistory.com/](https://whkakrkr.tistory.com/)   
+:memo: *Blog* _ [https://whkakrkr.tistory.com/](https://whkakrkr.tistory.com/)   
 
 </br>
 
@@ -27,3 +27,4 @@ Now I'm studying
 - Java (2021.03~)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/whkakrkr/github-readme-stats)
