@@ -27,4 +27,4 @@ Now I'm studying
 - Java (2021.03~)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/whkakrkr/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whkakrkr)](https://github.com/anuraghazra/github-readme-stats)
