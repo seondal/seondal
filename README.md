@@ -26,7 +26,7 @@ whkakrkr [Jwa Ma Gak]
 2020.06~ <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>      
 2021.02~ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>   
 2021.03~ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>   
-2020.02~   
+2020.02~ Solving Algrithm Problems with OJ  
 </br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
 
