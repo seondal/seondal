@@ -2,13 +2,11 @@
 **whkakrkr/whkakrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## whkakrkr  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhkakrkr&count_bg=%23000000&title_bg=%23FAB0B0&icon=lg.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
+## 내이름은 좌마각
 
-내이름은 좌마각   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhkakrkr&count_bg=%23000000&title_bg=%23FAB0B0&icon=lg.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 
-whkakrkr [Jwa Ma Gak] 
-
-</br>
+</br></br>
 
 🍰 *Born in* 2001, Korea       
 
@@ -26,12 +24,12 @@ whkakrkr [Jwa Ma Gak]
 2020.06~ <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>      
 2021.02~ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>   
 2021.03~ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>   
-2020.02~ Solving Algrithm Problems with OJ  
+2020.02~ ⬇️**Solving Algrithm Problems in [BaekJoon](https://whkakrkr.tistory.com/category/%EB%B0%B1%EC%A4%80%20OJ) & [오일러OJ](https://whkakrkr.tistory.com/category/%EC%98%A4%EC%9D%BC%EB%9F%AC%20OJ%20%20%282021.03~%29)**   
 </br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
 
-
 </br></br>
+
 🛠️ *Once I've used...*   
 </br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
