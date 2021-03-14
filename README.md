@@ -1,7 +1,6 @@
 <!--
 **whkakrkr/whkakrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## whkakrkr  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhkakrkr&count_bg=%23000000&title_bg=%23FAB0B0&icon=lg.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 
@@ -22,8 +21,8 @@ whkakrkr [Jwa Ma Gak]
 </br>
 
 Now I'm studying   
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift%20&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift%2B%2B&logoColor=white"/></a>
 
 - C++ (2020.03~)
 - Swift (2020.06~)
