@@ -22,7 +22,7 @@ whkakrkr [Jwa Ma Gak]
 
 Now I'm studying   
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift%20%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift]-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
 
 - C++ (2020.03~)
 - Swift (2020.06~)
