@@ -10,31 +10,29 @@ whkakrkr [Jwa Ma Gak]
 
 </br>
 
-:cake: *Born in* 2001, Korea       
+🍰 *Born in* 2001, Korea       
 
 📫 *Email* _ whkakrkr@gmail.com    
 
-:camera: *Instagram* _ **@keep_coding_**
+📷 *Instagram* _ **@keep_coding_**
 
-:memo: *Blog* _ [https://whkakrkr.tistory.com/](https://whkakrkr.tistory.com/)   
+📝 *Blog* _ [https://whkakrkr.tistory.com/](https://whkakrkr.tistory.com/)   
 
 </br></br>
 
-:pencil2: Now I'm studying...   
+✏️ *Now I'm studying...*   
 </br>
 2020.03~ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>      
 2020.06~ <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>      
 2021.02~ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>   
-2021.03~ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-
-</br>
+2021.03~ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>   
 2020.02~   
 </br>
-
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
 
+
 </br></br>
-🛠️ Once I've used...
+🛠️ *Once I've used...*   
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>
