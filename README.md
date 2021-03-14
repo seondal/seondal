@@ -29,8 +29,10 @@ whkakrkr [Jwa Ma Gak]
 2021.03~ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 
 </br>
-
+2020.02~
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
+
+</br></br></br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whkakrkr)](https://github.com/anuraghazra/github-readme-stats)
 
 
