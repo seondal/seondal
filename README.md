@@ -13,7 +13,7 @@
 
 📝 *Blog* _ [https://whkakrkr.tistory.com/](https://whkakrkr.tistory.com/)   
 
-</br></br>
+</br>
 
 ✏️ *Now I'm studying...*   
 </br>
@@ -25,7 +25,7 @@
 </br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)   
 
-</br></br>
+</br>
 
 🛠️ *Once I've used...*   
 </br>
