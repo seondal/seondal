@@ -19,7 +19,7 @@
 
 </br>
 
-🛠️ *Once I've used _*         
+🛠️ *Studying*         
 </br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
