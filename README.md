@@ -1,7 +1,7 @@
 <!--
 **whkakrkr/whkakrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20 %20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20.%20%20&height=200&fontSize=100)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhkakrkr&count_bg=%23000000&title_bg=%23FAB0B0&icon=lg.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 </br>
