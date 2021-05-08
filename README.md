@@ -31,7 +31,7 @@
 
 
 </br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/profile/whkakrkr)
 
 
 
