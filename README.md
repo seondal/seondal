@@ -31,7 +31,7 @@
 
 
 </br>
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)
+[![solved.ac tier(http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)
 
 
 
