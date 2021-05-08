@@ -31,8 +31,8 @@
 
 
 </br>
-Solving Algrithm in [백준](https://whkakrkr.tistory.com/category/%EB%B0%B1%EC%A4%80%20OJ) & [오일러OJ](https://whkakrkr.tistory.com/category/%EC%98%A4%EC%9D%BC%EB%9F%AC%20OJ%20%20%282021.03~%29)   
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr/)
+
 
 
 </br></br></br>
