@@ -2,6 +2,9 @@
 **whkakrkr/whkakrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
+
+
 <p align="center"> 🍰 Born in 2001, Korea </p>     
 
 <p align="center">📫 Email <a href="whkakrkr@gmail.com">whkakrkr@gmail.com</a></p>
@@ -35,5 +38,5 @@
   </br>
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whkakrkr)](https://github.com/anuraghazra/github-readme-stats)
 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&)
 
-</p>
