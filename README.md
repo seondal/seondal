@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=SeonDal)
 
 
-<h3>:chain: Links :chain: </h3>
+<h3>:link: Links :link: </h3>
 
 <!-- <h3 >:camera: Links 📷</h3> -->
 <p>
