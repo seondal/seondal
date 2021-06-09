@@ -2,13 +2,13 @@
 **whkakrkr/whkakrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=SeonDal)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=SeonDal)
 
 
-<h3 align="center"> 🍰 Links :cake: </h3>
+<h3> 🍰 Links :cake: </h3>
 
-<!-- <h3 align="center">:camera: Links 📷</h3> -->
-<p align="center">
+<!-- <h3 >:camera: Links 📷</h3> -->
+<p>
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/><a href="https://whkakrkr.tistory.com/"></a>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -18,8 +18,8 @@
 <!-- 📷 <a href="https://www.instagram.com/coding_seondal/">@coding_seondal</a>    -->
 <!-- 📝 <a href="https://whkakrkr.tistory.com/">Tistory</a>    -->
 </br>
-<h3 align="center">🛠️ Studying 🛠️</h3>
-<p align="center">
+<h3>🛠️ Studying 🛠️</h3>
+<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
