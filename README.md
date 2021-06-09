@@ -10,7 +10,7 @@
 📝 <a href="https://whkakrkr.tistory.com/">Tistory</a>
 </br>
 <h3>🛠️ Studying 🛠️</h3>
-<!-- <p align="center"> -->
+<p align="inline">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
