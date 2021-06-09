@@ -9,7 +9,7 @@
 
 <p align="center">📫 Email <a href="whkakrkr@gmail.com">whkakrkr@gmail.com</a></p>
 
-<p align="center"> 📷 Instagram <a href="https://www.instagram.com/coding_whk/">@coding_whk</a></p>
+<p align="center"> 📷 Instagram <a href="https://www.instagram.com/coding_seondal/">@coding_seondal</a></p>
 
 <p align="center">📝 Blog <a href="https://whkakrkr.tistory.com/">https://whkakrkr.tistory.com/</a></p>
 </br>
@@ -26,8 +26,8 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/></a>
                                                  </p>
                                                                                                                                                                                                                                  
-  <a align = "center">[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whkakrkr)](https://github.com/anuraghazra/github-readme-stats)</a>
+  <a align = "center">[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seondal)](https://solved.ac/seondal)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seondal)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=100&section=footer&)
 
