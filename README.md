@@ -14,8 +14,8 @@
 </a>
   <a href="https://github.com/seondal">  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/seondal"/>
 </a>
-  <a href="whkakrkr@gmail.com">  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=whkakrkr@gmail.com"/>
-</a>
+<!--   <a href="whkakrkr@gmail.com">  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=whkakrkr@gmail.com"/>
+</a> -->
 </p>
 <!-- 📫 <a href="whkakrkr@gmail.com">Email</a></p> -->
 <!-- 📷 <a href="https://www.instagram.com/coding_seondal/">@coding_seondal</a>    -->
