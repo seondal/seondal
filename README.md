@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=SeonDal)
 
 
-<h3> 🍰 Links :cake: </h3>
+<h3>:chain: Links :chain: </h3>
 
 <!-- <h3 >:camera: Links 📷</h3> -->
 <p>
@@ -29,13 +29,13 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/></a>
-                                                
-                                                                                                                                                                                                                                 
+ </p>                                                
+                                                                                                                                                                                   </br>                                              
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seondal)](https://github.com/anuraghazra/github-readme-stats) -->
 
- </p>
+
  
 <!--![footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=100&section=footer&)-->
 
