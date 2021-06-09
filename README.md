@@ -26,8 +26,8 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/></a>
                                                  </p>
                                                                                                                                                                                                                                  
-<div align="center">[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)</div>
+<p align="center">[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)</p>
   <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seondal)](https://github.com/anuraghazra/github-readme-stats)</a>-->
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=100&section=footer&)
