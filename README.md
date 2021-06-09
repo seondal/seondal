@@ -9,7 +9,7 @@
 
 <!-- <h3 >:camera: Links 📷</h3> -->
 <p>
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/><a href="https://whkakrkr.tistory.com/"></a>
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white" &href="https://whkakrkr.tistory.com/"/><a href="https://whkakrkr.tistory.com/"></a>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/><a href="https://www.instagram.com/coding_seondal/"></a>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/><a href="https://github.com/seondal"></a>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/><a href="whkakrkr@gmail.com"></a>
