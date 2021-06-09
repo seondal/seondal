@@ -2,15 +2,22 @@
 **whkakrkr/whkakrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header)-->
+![header](https://capsule-render.vercel.app/api?type=s&color=auto&height=100&section=header&text=SeonDal)
 
-🍰 Born in 2001, Korea      
+🍰 Born in 2001, Korea :cake:     
+<h3>:camera: Studying 📷</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/><a href="https://whkakrkr.tistory.com/"></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+                                                 </p>
 <!-- 📫 <a href="whkakrkr@gmail.com">Email</a></p> -->
-📷 <a href="https://www.instagram.com/coding_seondal/">@coding_seondal</a>   
-📝 <a href="https://whkakrkr.tistory.com/">Tistory</a>   
+<!-- 📷 <a href="https://www.instagram.com/coding_seondal/">@coding_seondal</a>    -->
+<!-- 📝 <a href="https://whkakrkr.tistory.com/">Tistory</a>    -->
 </br>
-<h3>🛠️ Studying 🛠️</h3>
-<p align="inline">
+<h3 align="center">🛠️ Studying 🛠️</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
