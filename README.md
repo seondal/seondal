@@ -4,10 +4,10 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header)-->
 
-🍰 Born in 2001, Korea </p>     
-📫 <a href="whkakrkr@gmail.com">Email</a></p>
-📷 <a href="https://www.instagram.com/coding_seondal/">@coding_seondal</a>
-📝 <a href="https://whkakrkr.tistory.com/">Tistory</a>
+🍰 Born in 2001, Korea      
+<!-- 📫 <a href="whkakrkr@gmail.com">Email</a></p> -->
+📷 <a href="https://www.instagram.com/coding_seondal/">@coding_seondal</a>   
+📝 <a href="https://whkakrkr.tistory.com/">Tistory</a>   
 </br>
 <h3>🛠️ Studying 🛠️</h3>
 <p align="inline">
