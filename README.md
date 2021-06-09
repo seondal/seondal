@@ -16,8 +16,7 @@
 </a>
   <a href="whkakrkr@gmail.com">  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=whkakrkr@gmail.com"/>
 </a>
-
-                                                 </p>
+</p>
 <!-- 📫 <a href="whkakrkr@gmail.com">Email</a></p> -->
 <!-- 📷 <a href="https://www.instagram.com/coding_seondal/">@coding_seondal</a>    -->
 <!-- 📝 <a href="https://whkakrkr.tistory.com/">Tistory</a>    -->
