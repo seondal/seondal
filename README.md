@@ -26,7 +26,7 @@
 
 ### 🛠️ Tools 🛠️
 
-<img align='middle' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seondal)](https://github.com/anuraghazra/github-readme-stats) -->
  
