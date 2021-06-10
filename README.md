@@ -16,7 +16,7 @@
           <a href="mailto:whkakrkr@gmail.com">
                     <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/></a>
           <a href="https://github.com/seondal">
-                    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+                    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
           
 </br>
