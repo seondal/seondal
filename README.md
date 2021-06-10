@@ -4,8 +4,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=30&animation=fadeIn)
 
-<h3 align='center'>🐔 SeonDal 🐔</h3>
-<p align='center'>
+<h3>🐔 SeonDal 🐔</h3>
+<p>
             <a href="https://github.com/seondal">
                       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
           <a href="https://www.instagram.com/coding_seondal/">
@@ -18,8 +18,8 @@
           
 </br>
 
-<h3 align='center'>📝 Studying 📝</h3>
-<p align='center'>
+<h3>📝 Studying 📝</h3>
+<p>
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
           <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
@@ -32,7 +32,7 @@
 
 </br>
 
-<h3 align='center'>🛠️ Tools 🛠️</h3>
+<h3>🛠️ Tools 🛠️</h3>
 
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
