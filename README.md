@@ -10,7 +10,7 @@
 
 <a href="https://whkakrkr.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white/></a>
 
-<a href="https://www.instagram.com/coding_seondal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white/></a>
+<a href="https://www.instagram.com/coding_seondal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white</img></a>
 
 <a href="https://github.com/seondal"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white/></a>
 
