@@ -7,12 +7,10 @@ type=waving&
 color=auto&
 height=300&
 section=header&
-desc=printf("Hello,&
 text=Seon%20Dal&
 fontSize=90&
 animation=fadeIn&
-fontAlignY=38&
-desc=!");)
+)
 
 <h3>:link: Links :link: </h3>
 
