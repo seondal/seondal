@@ -9,7 +9,7 @@ height=300&
 section=header&
 text=Seon%20Dal&
 fontSize=90&
-animation=fadeIn&
+animation=fadeIn
 )
 
 <h3>:link: Links :link: </h3>
