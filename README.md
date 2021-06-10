@@ -3,10 +3,12 @@
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=30&animation=fadeIn)
-
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D978CE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)] 
 <h3>🐔: SeonDal 🐔: </h3>
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D978CE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <p>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal%2Fhit-counter&count_bg=%23D978CE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <a href="https://whkakrkr.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white&link="https://whkakrkr.tistory.com/""/></a>
   <a href="https://www.instagram.com/coding_seondal/">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/coding_seondal/"/>
 </a>
@@ -32,11 +34,10 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/></a>
  </p>                                                
                                                                                                                                                                                    </br>                                                                                                                                                                              
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=whkakrkr">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)]
+
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seondal)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
