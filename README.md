@@ -13,8 +13,6 @@
 </br>
 
 ### 📝 Studying 📝
-
-##### 🖊️ Language
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
@@ -26,9 +24,9 @@
 
 </br>
 
-##### 🛠️ Tools
+### 🛠️ Tools 🛠️
 
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seondal)](https://github.com/anuraghazra/github-readme-stats) -->
  
