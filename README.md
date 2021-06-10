@@ -5,8 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=30&animation=fadeIn)
 
 <h3>🐔 SeonDal 🐔</h3>
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal%2Fhit-counter&count_bg=%23D978CE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23D978CE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<p>
   <a href="https://whkakrkr.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white&link="https://whkakrkr.tistory.com/""/></a>
   <a href="https://www.instagram.com/coding_seondal/">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/coding_seondal/"/>
 </a>
