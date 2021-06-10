@@ -3,14 +3,7 @@
 -->
 
 ![header](https://capsule-render.vercel.app/api?
-type=waving&
-color=auto&
-height=300&
-section=header&
-text=Seon%20Dal&
-fontSize=90&
-animation=fadeIn
-)
+type=waving&color=auto&height=300&section=header&text=Seon%20Dal&fontSize=90&animation=fadeIn)
 
 <h3>:link: Links :link: </h3>
 
