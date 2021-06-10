@@ -12,7 +12,9 @@
 
 </br>
 
-### 🛠️ Studying 🛠️
+### 📝 Studying 📝
+
+##### 🖊️ Language
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
@@ -23,6 +25,8 @@
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/></a>
 
 </br>
+
+##### 🛠️ Tools
 
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
 
