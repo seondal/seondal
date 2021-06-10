@@ -2,8 +2,7 @@
 **whkakrkr/whkakrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![header](https://capsule-render.vercel.app/api?type=simple&color=auto&height=200&section=header&text=SeonDal)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=printf("Hello,SeonDal!");&descAlignY=51&descAlign=62)
 
 <h3>:link: Links :link: </h3>
 
