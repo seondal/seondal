@@ -11,10 +11,10 @@
                       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
           <!-- <a href="https://www.instagram.com/dev_seondal/">
                     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
-          <a href="https://whkakrkr.tistory.com">
-                    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/></a>
              <a href="https://velog.io/@seondal">
                     <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logoColor=white"/></a>
+          <a href="https://whkakrkr.tistory.com">
+                    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/></a>
 
           <!-- <a href="mailto:whkakrkr@gmail.com">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
