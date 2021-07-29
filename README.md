@@ -40,8 +40,7 @@
           <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
             </p> -->
             
-<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=seondal"></p>
+<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr"><img src="https://github-readme-stats.vercel.app/api?username=seondal"></p>
 
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&)
