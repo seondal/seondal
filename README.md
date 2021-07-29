@@ -20,7 +20,6 @@
 </p>
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
-</br>
 
 <h3>📝 Studying 📝</h3>
           <p>
