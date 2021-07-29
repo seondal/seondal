@@ -20,8 +20,8 @@
             <a href="mailto:whkakrkr@gmail.com">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr"><img src="https://github-readme-stats.vercel.app/api?username=seondal"></p>
 
-</br>
 <!-- 
 <h3 align="center"> 🛠️ I've ever used 🛠️ </h3> -->
 <!--                   <p align="center">
@@ -41,9 +41,6 @@
           <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a>
           <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
             </p> -->
-            
-<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr"><img src="https://github-readme-stats.vercel.app/api?username=seondal"></p>
-
-
+           
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&)
  -->
