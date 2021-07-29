@@ -4,7 +4,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=30&animation=fadeIn)
  -->
-<h2 align="center">🐔 SeonDal 🐔</h2>
+<h3 align="center">🐔 SeonDal 🐔</h3>
 
 <p align="center">
             <a href="https://github.com/seondal">
@@ -39,10 +39,9 @@
           <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a>
           <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
             </p>
-            
-<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seondal)](https://github.com/anuraghazra/github-readme-stats)
+            </br>
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=seondal">
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&)
  -->
