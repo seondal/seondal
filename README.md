@@ -2,9 +2,11 @@
 **whkakrkr/whkakrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=30&animation=fadeIn)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=30&animation=fadeIn)
+ -->
 <h3>🐔 SeonDal 🐔</h3>
+
+---
 
 <p>
             <a href="https://github.com/seondal">
@@ -18,7 +20,6 @@
             <a href="mailto:whkakrkr@gmail.com">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
 
 </br>
 
@@ -40,7 +41,8 @@
             </p>
             
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seondal)](https://github.com/anuraghazra/github-readme-stats) -->
- 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seondal)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
+
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&)
  -->
