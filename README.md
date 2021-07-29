@@ -3,7 +3,6 @@
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=30&animation=fadeIn)
-
 <h3>🐔 SeonDal 🐔</h3>
 
 <p>
@@ -47,5 +46,4 @@
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seondal)](https://github.com/anuraghazra/github-readme-stats) -->
  
-<!--![footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=100&section=footer&)-->
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&)
