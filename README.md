@@ -20,17 +20,17 @@
 </p>
 
 </br>
-
-<h3 align="center"> 🛠️ I've ever used 🛠️ </h3>
-                  <p align="center">
+<!-- 
+<h3 align="center"> 🛠️ I've ever used 🛠️ </h3> -->
+<!--                   <p align="center">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>  
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
           </br>
-<!--            <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a> -->
+            <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<!--           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> -->
-          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
           <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/></a>
           </br>
@@ -38,12 +38,11 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
           <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a>
           <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
-            </p>
+            </p> -->
             
-<p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr">
-<img src="https://github-readme-stats.vercel.app/api?username=seondal">
-</p>
+<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=seondal"></p>
+
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&)
  -->
