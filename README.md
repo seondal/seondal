@@ -2,10 +2,9 @@
 **whkakrkr/whkakrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=30&animation=fadeIn)
-  -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=20&animation=fadeIn)
 <!-- <h3>🐔 SeonDal 🐔</h3> -->
-<p>
+<p align = "center">
 <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
  <!-- <a href="https://www.instagram.com/dev_seondal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -13,7 +12,9 @@
 <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/></a> -->
 <a href="mailto:sseondal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=seondal">
+  </div>
 
 <!-- <p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr"></p>
  -->
