@@ -38,4 +38,4 @@
           <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
             </p> -->
            
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&) -->
