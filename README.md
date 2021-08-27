@@ -7,7 +7,7 @@
 
 <img width="250px" align="left" src="https://user-images.githubusercontent.com/75469131/131073409-72b110fd-e679-45fa-aef0-9bfff35dd0b3.png" />
 
-<div>
+<div align="center">
  
 **🐔 Me**
 
@@ -21,9 +21,9 @@
 <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=fc4e5ae6e85a44b1988817215a63a854"><img src="https://img.shields.io/badge/Projects-whitesmoke?style=flat-square&logo=Notion&logoColor=black"/></a>
 
 <!--  </br> -->
-**📚 Stacks**
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&layout=compact">
+<!-- **📚 Stacks**
+  -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&layout=compact">
 </div>
 
 
