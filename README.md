@@ -7,7 +7,7 @@
 
 <img width="270px" align="left" src="https://user-images.githubusercontent.com/75469131/131073409-72b110fd-e679-45fa-aef0-9bfff35dd0b3.png" />
 
-<div>
+<div align="center">
  
 <!-- **🐔 Me_** -->
 <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
