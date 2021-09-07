@@ -4,7 +4,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=20&animation=fadeIn) -->
 
-<img width="270px" align="left" src="https://user-images.githubusercontent.com/75469131/131073409-72b110fd-e679-45fa-aef0-9bfff35dd0b3.png" />
+<img width="330px" align="left" src="https://user-images.githubusercontent.com/75469131/131073409-72b110fd-e679-45fa-aef0-9bfff35dd0b3.png" />
 
 <div>
  <h3>🐔 SeonDal 🐔</h3>
