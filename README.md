@@ -7,7 +7,7 @@
 <img width="330px" align="left" src="https://user-images.githubusercontent.com/75469131/131073409-72b110fd-e679-45fa-aef0-9bfff35dd0b3.png" />
 
 <div>
- <h3>🐔 SeonDal 🐔</h3>
+ <h3>SeonDal</h3>
 
 <!-- ### 🐔 Me
   -->
