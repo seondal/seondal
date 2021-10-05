@@ -20,7 +20,7 @@
 <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Tistory | Seondalgorithm-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <!--  </br> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&layout=compact">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&hide=XS,Makefile,Purebasic,Batchfile&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL,2021_2_JPL&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
