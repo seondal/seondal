@@ -11,17 +11,14 @@
  
 <!--  ### 🐣 Seondal 🐥
   -->
-<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
- <br>
+<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
  <br>
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog | seondal.log-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Tistory | Seondalgorithm-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-<br>
-
+<!-- <br>
 <div>
- 
-<!-- ### 🛠️ Stack ⚒️ -->
+### 🛠️ Stack ⚒️
 Once I've Used...
  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -43,13 +40,11 @@ Once I've Used...
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/></a>
-</div>
-
-<br>
+</div> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=6"/>
-<a align = "right" href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr"/></a>
-
+<!-- <a align = "right" href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr"/></a>
+ -->
 </div>
 
 <!-- 
