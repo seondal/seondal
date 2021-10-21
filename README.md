@@ -9,7 +9,7 @@
  
 <div align="">
  
- ### 🐣 Seondal (lv.21) 🐥
+ ### 🐣 Seon Dal 🐥
  
  <br>
  
