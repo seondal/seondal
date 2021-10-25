@@ -1,30 +1,28 @@
-<!--
-**whkakrkr/whkakrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=printf("Hello,%20SeonDal%20!");&fontSize=20&animation=fadeIn) -->
-
-<!-- <img width="330px" align="left" src="https://user-images.githubusercontent.com/75469131/131073409-72b110fd-e679-45fa-aef0-9bfff35dd0b3.png" />
- -->
- 
 <div align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=seondal&show_icons=true&theme=dracula&hide="/>
  
- ### 🐣 Seon Dal 🐥
+  ### 🐣 Seon Dal 🐥 
+ 
+ <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
+
+ ---
+
+ 🍏 **seondal.log** 🍏 https://velog.io/@seondal
+ 
+ 🍊 **Seondalgorithm** 🍊 https://whkakrkr.tistory.com
  
  <br>
  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
+ ---
  
-<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
-<br>
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog | seondal.log-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Tistory | Seondalgorithm-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a>
+ <br>
  
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
 
 <!-- <a align = "right" href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/generate_badge?boj=whkakrkr"/></a>
  -->
  
-<div>
+<div align="left">
  
 ### Once I've Used ✏️
 
