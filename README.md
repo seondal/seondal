@@ -7,13 +7,21 @@
   
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=seondal&show_icons=true&theme=dracula&hide="/>
 
-  - 🍏 **seondal.log** 🍏 https://velog.io/@seondal
-  - 🍊 **Seondalgorithm** 🍊 https://whkakrkr.tistory.com
+  <div align="left">
+    
+  🍏 **seondal.log** 🍏 https://velog.io/@seondal
   
-  <br>
+  🍊 **Seondalgorithm** 🍊 https://whkakrkr.tistory.com
+    
+  </div>
   
-  - `2021.09 ~` GDSC 3rd Core Member
-  - `2021.09 ~` SOPT 29th iOS YB
+  <div align = "right">
+    
+  GDSC 3rd Core Member `2021.09 ~`
+    
+  SOPT 29th iOS YB `2021.09 ~`
+    
+  </div>
   
 </div>
   
