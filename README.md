@@ -26,6 +26,8 @@
 ### Once I've used...✏️
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+
 <br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
