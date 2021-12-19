@@ -1,7 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/75469131/146693451-b7758761-bbdc-401e-93a8-ae9367b1661f.gif" />
-
-
-### I like to record... 📝
+### I like Recording ... 📝
 
 - [ Velog ] [Seondal.log](https://velog.io/@seondal) is a **Tech Blog** recording what I've studied
 - [Tistory] [Sedonalgorithm](https://whkakrkr.tistory.com) is a blog that stores my **Algorithm Problem Solvings**
