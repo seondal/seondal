@@ -1,5 +1,3 @@
-<img align="right" src="https://user-images.githubusercontent.com/75469131/146693942-4c708291-3d5d-4c5e-bb6e-abbb7c2cc738.gif" />
-
 ### I like Recording ... 📝
 
 - [ Velog ] [Seondal.log](https://velog.io/@seondal) is a **Tech Blog** recording what I've studied
