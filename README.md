@@ -2,7 +2,7 @@
 ### I like Recording ... 📝
 
 - [ Velog ] [Seondal.log](https://velog.io/@seondal) is a **Tech Blog** recording what I've studied
-- [Tistory] [Sedonalgorithm](https://whkakrkr.tistory.com) is a blog that stores my **Algorithm Problem Solvings**
+- [Tistory] [Seondalgorithm](https://whkakrkr.tistory.com) is a blog that stores my **Algorithm Problem Solvings**
 
 ### Now I am ... 🐣
 
