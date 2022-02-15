@@ -11,7 +11,8 @@
  
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://suave-lilac-075.notion.site/SeondAlchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-<a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+<a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/
+  Tistory-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
   
 
  
