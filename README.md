@@ -1,5 +1,4 @@
 
-<!-- 미천한 코드를 봐주셔서 감사합니다. -->
 <!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
 
 <div align="center">
