@@ -10,7 +10,7 @@
   
   ---
   
-  <a href="https://www.notion.so/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
+  <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
   <a href="https://solved.ac/whkakrkr"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
  
   <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
