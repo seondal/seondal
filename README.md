@@ -4,9 +4,12 @@
 <div align="center">
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
    -->
+   
+  <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212619424-d67608f0-5c14-48e1-b2a4-3ebcc2bdd631.png">
   
-  <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212619049-6d2e4504-628f-4dc2-b045-e581303829fc.gif" />
-  
+<!--   <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212619049-6d2e4504-628f-4dc2-b045-e581303829fc.gif" />
+   -->
+   
   ### Seondal 🐥
   
   ---
