@@ -8,7 +8,7 @@
 <!--    <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212620177-077ec052-2e69-49f8-b227-47e06b8b3b3e.JPG"> -->
   <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212619049-6d2e4504-628f-4dc2-b045-e581303829fc.gif" />
   
-   ### Seondal
+   ### Seondal 🐣
   
   ---
   
