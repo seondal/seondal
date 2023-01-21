@@ -10,7 +10,7 @@
 <!--    <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212620177-077ec052-2e69-49f8-b227-47e06b8b3b3e.JPG"> -->
 <!--   <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212619049-6d2e4504-628f-4dc2-b045-e581303829fc.gif" />-->
   
-  ### Seondal
+  ### Seon Dal
   
   ---
   <img align="left" width="40" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
