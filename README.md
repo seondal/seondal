@@ -6,7 +6,8 @@
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
    -->
  
-  <a href="https://solved.ac/whkakrkr"><img alt="solved.ac" align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr"/></a>
+<!--   <a href="https://solved.ac/whkakrkr"><img alt="solved.ac" align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr"/></a>
+   -->
   
 <!--      <img align="right" src="http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm"/> -->
 <!--   <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212619424-d67608f0-5c14-48e1-b2a4-3ebcc2bdd631.png"> -->
