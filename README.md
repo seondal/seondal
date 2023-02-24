@@ -26,7 +26,7 @@
   
 <!--   <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a> -->
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
 
 <!--
  <a href="https://www.instagram.com/dev_seondal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a> <a href="mailto:sseondal@gmail.com"><img src="https://img.shields.io/badge/mail to me-557AF2?style=plastic&logo=Gmail&logoColor=white"/></a>
