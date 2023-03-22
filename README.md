@@ -26,8 +26,6 @@
   
   <a href="https://velog.io/@seondal/about"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/></a>  <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
   <img align="left" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
-
-  <br>
   
   ---
   
