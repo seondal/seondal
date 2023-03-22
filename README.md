@@ -20,6 +20,8 @@
 
   <!--   <img align="right" height="100" src="https://user-images.githubusercontent.com/75469131/213887495-9953614d-3516-4781-98a2-17908e379c4f.gif" />-->
    
+  <br>
+  
   <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835"><img src="https://img.shields.io/badge/ReadMe-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
   
   <a href="https://velog.io/@seondal/about"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/></a>  <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
