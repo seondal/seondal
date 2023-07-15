@@ -12,8 +12,8 @@
 
 - 🏢 **(주)누비랩** - Product Tech Team FE 개발 인턴 <sub>(2023.03 ~ 06)</sub>
 - 🥗 [Eatda(잇다)](https://github.com/eatda) - FE 개발 <sub>(2022.12 ~ 23.02)</sub>
-- 신촌연합 IT 창업동아리 [CEOS](https://github.com/seondal/CEOS-FE-Study) - 16기 FE  <sub>(2022.09 ~ 23.02)</sub>
-- 연세대학교 목소리연구실 실험 웹 페이지 개발 외주 <sub>(2022.08)</sub>
+- 신촌연합 IT 창업동아리 [CEOS](https://github.com/seondal/CEOS-FE-Study) - 16기 FE <sub>(2022.09 ~ 23.02)</sub>
+- 연세대학교 목소리연구실 [실험 웹 페이지 개발](https://github.com/seondal/VoiceLab) 외주 <sub>(2022.08)</sub>
 - GDSC Ewha - 3기 Core Member 대외팀 <sub>(2021.09 ~ 22.07)</sub>
-- I Say Lab 언어연구소 홈페이지 개발 외주 <sub>(2021.12)</sub>
+- I Say Lab 언어연구소 [홈페이지 개발](https://github.com/seondal/ChildCare) 외주 <sub>(2021.12)</sub>
 - 🏫 Ewha Womans University - Computer Science Engineering <sub>(2020.03 ~)</sub>
