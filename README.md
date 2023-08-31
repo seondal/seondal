@@ -11,6 +11,7 @@
 
 <a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
 
+- 🪄 [PosePicker](https://github.com/dnd-side-project/dnd-9th-5-frontend) - FE 개발 <sub>(2023.07 ~ )</sub>
 - 🏢 **(주)누비랩** - Product Tech Team FE 개발 인턴 <sub>(2023.03 ~ 06)</sub>
 - 🥗 [Eatda(잇다)](https://github.com/eatda) - FE 개발 <sub>(2022.12 ~ 23.02)</sub>
 - 신촌연합 IT 창업동아리 [CEOS](https://github.com/seondal/CEOS-FE-Study) - 16기 FE <sub>(2022.09 ~ 23.02)</sub>
