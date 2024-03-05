@@ -20,6 +20,10 @@
 
 <br/>
 
+<details>
+<summary>Activity</summary>
+<div markdown="1">
+
 |기간|활동|기수|
 |:-:|-:|:-|
 |<sub>2024.02 ~ </sub> | SK **Devocean Young** | 3기 |
@@ -32,3 +36,7 @@
 |<sub>2021.09 ~ 22.02</sub>| 전국 대학생 연합 IT 창업동아리 **SOPT** | 29기 iOS |
 |<sub>2021.09 ~ 22.07</sub>| Google Developer Students Club Ewha | 3기 Core Member  |
 |<sub>2021.03 ~ 21.12</sub>| 교내 웹개발 커리어클럽 **EFUB** | 1기 프론트 |
+
+
+</div>
+</details>
