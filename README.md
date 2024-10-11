@@ -11,7 +11,7 @@
 
 <a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
 
-- 🎤 [PitchFinder](https://github.com/K-CoB) - 기획 및 개발 <sub>(2023.09 ~ 24.06)</sub>
+- 🎤 [PitchFinder](https://github.com/K-CoB/docs) - 기획 및 개발 <sub>(2023.09 ~ 24.06)</sub>
 - 🪄 [**PosePicker**](https://github.com/posepicker) - 기획 참여 및 FE 개발 <sub>(2023.07 ~ )</sub>
 - 🏢 **(주)누비랩** - Product Tech Team FE 인턴 <sub>(2023.03 ~ 06)</sub>
 - 🥗 [Eatda(잇다)](https://github.com/eatda) - FE 개발 <sub>(2022.12 ~ 23.02)</sub>
