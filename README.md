@@ -9,10 +9,11 @@
 
 </div>
 
-<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
+<!--<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>-->
+<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm"/></a>
 
 - 🎤 [PitchFinder](https://github.com/K-CoB/docs) - 기획 및 개발 <sub>(2023.09 ~ 24.06)</sub>
-- 🪄 [**PosePicker**](https://github.com/posepicker) - 기획 참여 및 FE 개발 <sub>(2023.07 ~ )</sub>
+- 🪄 [**PosePicker**](https://github.com/posepicker) - 기획 참여 및 FE 개발 <sub>(2023.07 ~ 2024.10)</sub>
 - 🏢 **(주)누비랩** - Product Tech Team FE 인턴 <sub>(2023.03 ~ 06)</sub>
 - 🥗 [Eatda(잇다)](https://github.com/eatda) - FE 개발 <sub>(2022.12 ~ 23.02)</sub>
 - 신촌연합 IT 창업동아리 [CEOS](https://github.com/seondal/CEOS-FE-Study) - 16기 FE <sub>(2022.09 ~ 23.02)</sub>
