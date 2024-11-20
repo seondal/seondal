@@ -28,7 +28,7 @@
 
 |기간|활동|기수|
 |:-:|-:|:-|
-|<sub>2024.02 ~ </sub> | SK **Devocean Young** | 3기 |
+|<sub>2024.02 ~ 24.12</sub> | SK **Devocean Young** | 3기 |
 |<sub>2024.02 ~ 24.07</sub> | Klaytn Dev Ambassador | 3기 |
 |<sub>2023.09 ~ 24.07</sub>| 교내 블록체인 학회 **Ewha Chain** | 12기 |
 |<sub>2023.07 ~ 23.08</sub>| 코드잇 엠버서더 | 1기 |
