@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
   
   ### Seondal
   
@@ -12,8 +12,8 @@
 <!--<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>-->
 <a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm"/></a>
 
-- 💤 Munice (**Nightly**) - 프론트엔드 인턴 <sub>(2025.01 ~ )</sub>
-- 🪄 [PosePicker](https://github.com/posepicker) - 기획 및 FE 개발 <sub>(2023.07 ~ 2024.10)</sub>
+- 💤 **Munice**([Nightly](https://nightly.so/ko)) - 프론트엔드 인턴 <sub>(2025.01 ~ )</sub>
+- 🪄 [PosePicker](https://github.com/posepicker) - 기획 및 FE 개발 <sub>(2023.07 ~ 24.10)</sub>
 - 🏢 (주)누비랩 - Product Tech Team FE 인턴 <sub>(2023.03 ~ 06)</sub>
 - 🥗 [Eatda(잇다)](https://github.com/eatda) - FE 개발 <sub>(2022.12 ~ 23.02)</sub>
 - 연세대학교 목소리연구실 [실험 웹 페이지 개발](https://github.com/seondal/VoiceLab) 외주 <sub>(2022.08)</sub>
