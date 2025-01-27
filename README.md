@@ -13,18 +13,19 @@
 <a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm"/></a>
 
 - 💤 **Munice Inc.** ([Nightly](https://nightly.so/ko)) - 웹 개발 인턴 <sub>(2025.01 ~ )</sub>
+- 🎤 [PitchFinder](https://github.com/K-CoB/docs) - 기획 및 개발 <sub>(2023.09 ~ 24.06)</sub>
 - 🪄 [PosePicker](https://github.com/posepicker) - 기획 및 FE 개발 <sub>(2023.07 ~ 24.10)</sub>
-- 🏢 (주)누비랩 - Product Tech FE 인턴 <sub>(2023.03 ~ 06)</sub>
+- 🏢 (주)누비랩 - Product Tech Team FE 인턴 <sub>(2023.03 ~ 06)</sub>
 - 🥗 [Eatda(잇다)](https://github.com/eatda) - FE 개발 <sub>(2022.12 ~ 23.02)</sub>
 - 연세대학교 목소리연구실 [실험 웹 페이지 개발](https://github.com/seondal/VoiceLab) 외주 <sub>(2022.08)</sub>
 - I Say Lab 언어연구소 [홈페이지 개발](https://github.com/seondal/ChildCare) 외주 <sub>(2021.12)</sub>
 
-<br/>
+---
 
 <details>
 <summary>Activity</summary>
 <div markdown="1">
-
+  
 |기간|활동|기수|
 |:-:|-:|:-|
 |<sub>2024.02 ~ 24.12</sub> | SK **Devocean Young** | 3기 |
@@ -38,6 +39,21 @@
 |<sub>2021.09 ~ 22.07</sub>| Google Developer Students Club Ewha | 3기 Core Member  |
 |<sub>2021.03 ~ 21.12</sub>| 교내 웹개발 커리어클럽 **EFUB** | 1기 프론트 |
 
+</div>
+</details>
+
+<details>
+<summary>Project</summary>
+<div markdown="1">
+
+|출시|개인 프로젝트|소개|
+|:-:|:-:|:-|
+|<sub>2025.01</sub> | [Instoolgram 📷](https://github.com/seondal/Instoolgram) | 인스타그램 릴스 다운로더 |
+|<sub>2024.11</sub> | [Filter Recipe 📸](https://github.com/FilterRecipe) | 필터레시피 : 인스타 & 아이폰 필터 모아보기 |
+|<sub>2024.09</sub> | [Pokemon Quiz 🌟](https://github.com/seondal/PokemonQuiz) | PokeAPI를 활용한 풀스택 프로젝트 |
+|<sub>2024.03</sub> | [Eccape 🏫](https://github.com/seondal/Eccape) | ECC 출구찾기 |
+|<sub>2024.10</sub> | [Auto Blog 🐍](https://github.com/seondal/AutoBlog) | 네이버 블로그 목차 생성기 & 알고리즘 문제풀이 자동서식 |
 
 </div>
 </details>
+
