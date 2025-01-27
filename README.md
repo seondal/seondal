@@ -28,11 +28,12 @@
 
 |출시|개인 프로젝트|소개|
 |:-:|:-:|:-|
-|<sub>2025.01</sub> | [Instoolgram 📷](https://github.com/seondal/Instoolgram) | 인스타그램 릴스 다운로더 |
+|<sub>2025.01</sub> | [Instoolgram 📷](https://github.com/seondal/Instoolgram) | Instagram Reels Downloader |
 |<sub>2024.11</sub> | [Filter Recipe 📸](https://github.com/FilterRecipe) | 필터레시피 : 인스타 & 아이폰 필터 모아보기 |
-|<sub>2024.09</sub> | [Pokemon Quiz 🌟](https://github.com/seondal/PokemonQuiz) | PokeAPI를 활용한 풀스택 프로젝트 |
+|<sub>2024.09</sub> | [Pokemon Quiz 🌟](https://github.com/seondal/PokemonQuiz) | Full Stack Project with PokeAPI |
 |<sub>2024.03</sub> | [Eccape 🏫](https://github.com/seondal/Eccape) | ECC 출구찾기 |
 |<sub>2024.10</sub> | [Auto Blog 🐍](https://github.com/seondal/AutoBlog) | 네이버 블로그 목차 생성기 & 알고리즘 문제풀이 자동서식 |
+|<sub>2023.08</sub> | [Team Info Table 🐈](https://github.com/seondal/TIT) | Team Info Table for Github Readme |
 
 </div>
 </details>
