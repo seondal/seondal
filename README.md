@@ -20,7 +20,23 @@
 - 연세대학교 목소리연구실 [실험 웹 페이지 개발](https://github.com/seondal/VoiceLab) 외주 <sub>(2022.08)</sub>
 - I Say Lab 언어연구소 [홈페이지 개발](https://github.com/seondal/ChildCare) 외주 <sub>(2021.12)</sub>
 
----
+<br/>
+
+<details>
+<summary>Project</summary>
+<div markdown="1">
+
+|출시|개인 프로젝트|소개|
+|:-:|:-:|:-|
+|<sub>2025.01</sub> | [Instoolgram 📷](https://github.com/seondal/Instoolgram) | 인스타그램 릴스 다운로더 |
+|<sub>2024.11</sub> | [Filter Recipe 📸](https://github.com/FilterRecipe) | 필터레시피 : 인스타 & 아이폰 필터 모아보기 |
+|<sub>2024.09</sub> | [Pokemon Quiz 🌟](https://github.com/seondal/PokemonQuiz) | PokeAPI를 활용한 풀스택 프로젝트 |
+|<sub>2024.03</sub> | [Eccape 🏫](https://github.com/seondal/Eccape) | ECC 출구찾기 |
+|<sub>2024.10</sub> | [Auto Blog 🐍](https://github.com/seondal/AutoBlog) | 네이버 블로그 목차 생성기 & 알고리즘 문제풀이 자동서식 |
+
+</div>
+</details>
+
 
 <details>
 <summary>Activity</summary>
@@ -41,19 +57,3 @@
 
 </div>
 </details>
-
-<details>
-<summary>Project</summary>
-<div markdown="1">
-
-|출시|개인 프로젝트|소개|
-|:-:|:-:|:-|
-|<sub>2025.01</sub> | [Instoolgram 📷](https://github.com/seondal/Instoolgram) | 인스타그램 릴스 다운로더 |
-|<sub>2024.11</sub> | [Filter Recipe 📸](https://github.com/FilterRecipe) | 필터레시피 : 인스타 & 아이폰 필터 모아보기 |
-|<sub>2024.09</sub> | [Pokemon Quiz 🌟](https://github.com/seondal/PokemonQuiz) | PokeAPI를 활용한 풀스택 프로젝트 |
-|<sub>2024.03</sub> | [Eccape 🏫](https://github.com/seondal/Eccape) | ECC 출구찾기 |
-|<sub>2024.10</sub> | [Auto Blog 🐍](https://github.com/seondal/AutoBlog) | 네이버 블로그 목차 생성기 & 알고리즘 문제풀이 자동서식 |
-
-</div>
-</details>
-
