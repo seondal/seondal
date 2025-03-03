@@ -31,7 +31,7 @@
 |<sub>2025.01</sub> | **📷 Instoolgram** | Instagram Reels Downloader | [🐈](https://github.com/seondal/Instoolgram) &nbsp; [🔗](https://instoolgram.seondal.kr) |
 |<sub>2024.11</sub> | **📸 Filter Recipe** | 필터레시피 : 인스타 & 아이폰 필터 모아보기 | [🐈](https://github.com/seondal/FilterRecipe) &nbsp; [🔗](https://filter-recipe.seondal.kr) |
 |<sub>2024.09</sub> | **🌟 Pokemon Quiz** | Full Stack Project with PokeAPI | [🐈](https://github.com/seondal/PokemonQuiz) &nbsp; [🔗](https://pokemon-quiz.seondal.kr) |
-|<sub>2024.03</sub> | **🏫 Eccape** | ECC 출구찾기 | [🐈](https://github.com/seondal/Instoolgram) |
+|<sub>2024.03</sub> | **🏫 EcCuseme** | ECC 출구찾기 | [🐈](https://github.com/seondal/Instoolgram) |
 |<sub>2024.10</sub> | **🐍 Auto Blog** | 네이버 블로그 목차 생성기 & 알고리즘 문제풀이 자동서식 | [🐈](https://github.com/seondal/AutoBlog) &nbsp; [🔗](https://auto-blog.seondal.kr) |
 |<sub>2023.08</sub> | **🐦 Team Info Table** | Team Info Table for Github Readme | [🐈](https://github.com/seondal/TIT) &nbsp; [🔗](https://team-info-table.seondal.kr) |
 
