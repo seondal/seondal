@@ -9,8 +9,8 @@
 
 </div>
 
-<!--<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>-->
-<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm"/></a>
+<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
+<!--<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm"/></a>-->
 
 - 💤 **[Munice Inc.](https://munice.com)** - 웹 개발 인턴 <sub>(2025.01 ~ )</sub>
 - 🎤 [PitchFinder](https://github.com/K-CoB/docs) - 기획 및 개발 <sub>(2023.09 ~ 24.06)</sub>
