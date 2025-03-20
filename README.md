@@ -15,11 +15,11 @@
 <a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
 <!--<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm"/></a>-->
 
-| 💤 | **[Munice Inc.](https://munice.com)** | 웹 개발 인턴 | 2025.01 ~ |
-|-|:-|:-|:-|
-| 🏢 | (주)누비랩 | Product Tech Team FE 인턴 | <sub>(2023.03 ~ 06)</sub> |
-| 🦅 | 연세대학교 목소리연구실 | 실험 웹 페이지 개발 외주 | <sub>(2022.08)</sub> |
-| 🍼 | I Say Lab 언어연구소 | 홈페이지 개발 외주 | <sub>(2021.12)</sub> |
+| 💤 **[Munice Inc.](https://munice.com)** | 웹 개발 인턴 | 2025.01 ~ |
+|:-|:-|:-|
+| 🏢 (주)누비랩 | Product Tech Team FE 인턴 | <sub>2023.03 ~ 06</sub> |
+| 🦅 연세대학교 목소리연구실 | 실험 웹 페이지 개발 외주 | <sub>2022.08)</sub> |
+| 🍼 I Say Lab 언어연구소 | 홈페이지 개발 외주 | <sub>2021.12</sub> |
 
 <br/>
 
