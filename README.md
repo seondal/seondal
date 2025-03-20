@@ -15,13 +15,11 @@
 <a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
 <!--<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm"/></a>-->
 
-- 💤 **[Munice Inc.](https://munice.com)** - 웹 개발 인턴 <sub>(2025.01 ~ )</sub>
-- 🎤 [PitchFinder](https://github.com/K-CoB/docs) - 기획 및 개발 <sub>(2023.09 ~ 24.06)</sub>
-- 🪄 [PosePicker](https://github.com/posepicker) - 기획 및 FE 개발 <sub>(2023.07 ~ 24.10)</sub>
-- 🏢 (주)누비랩 - Product Tech Team FE 인턴 <sub>(2023.03 ~ 06)</sub>
-- 🥗 [Eatda(잇다)](https://github.com/eatda) - FE 개발 <sub>(2022.12 ~ 23.02)</sub>
-- 연세대학교 목소리연구실 [실험 웹 페이지 개발](https://github.com/seondal/VoiceLab) 외주 <sub>(2022.08)</sub>
-- I Say Lab 언어연구소 [홈페이지 개발](https://github.com/seondal/ChildCare) 외주 <sub>(2021.12)</sub>
+| 💤 | **[Munice Inc.](https://munice.com)** | 웹 개발 인턴 | 2025.01 ~ |
+|-|:-|:-|:-|
+| 🏢 | (주)누비랩 | Product Tech Team FE 인턴 | <sub>(2023.03 ~ 06)</sub> |
+| 🦅 | 연세대학교 목소리연구실 | 실험 웹 페이지 개발 외주 | <sub>(2022.08)</sub> |
+| 🍼 | I Say Lab 언어연구소 | 홈페이지 개발 외주 | <sub>(2021.12)</sub> |
 
 <br/>
 
@@ -34,9 +32,12 @@
 |<sub>2025.01</sub> | **📷 Instoolgram** | Instagram Reels Downloader | [🐈](https://github.com/seondal/Instoolgram) &nbsp; [🔗](https://instoolgram.seondal.kr) |
 |<sub>2024.11</sub> | **📸 Filter Recipe** | 필터레시피 : 인스타 & 아이폰 필터 모아보기 | [🐈](https://github.com/seondal/FilterRecipe) &nbsp; [🔗](https://filter-recipe.seondal.kr) |
 |<sub>2024.09</sub> | **🌟 Pokemon Quiz** | Full Stack Project with PokeAPI | [🐈](https://github.com/seondal/PokemonQuiz) &nbsp; [🔗](https://pokemon-quiz.seondal.kr) |
-|<sub>2024.03</sub> | **🏫 EcCuseme** | ECC 출구찾기 | [🐈](https://github.com/seondal/Instoolgram) |
+|<sub>2024.03</sub> | **🏫 EcCuseme** | ECC 출구찾기 | |
 |<sub>2024.10</sub> | **🐍 Auto Blog** | 네이버 블로그 목차 생성기 & 알고리즘 문제풀이 자동서식 | [🐈](https://github.com/seondal/AutoBlog) &nbsp; [🔗](https://auto-blog.seondal.kr) |
+|<sub>2023.09 ~ 24.06</sub> | **🎤 PitchFinder** | 음역대 축정 기반 노래 필터링 서비스 | [🐈](https://github.com/K-CoB/docs) |
 |<sub>2023.08</sub> | **🐦 Team Info Table** | Team Info Table for Github Readme | [🐈](https://github.com/seondal/TIT) &nbsp; [🔗](https://team-info-table.seondal.kr) |
+|<sub>2023.07 ~ 24.10</sub> | **🪄 PosePicker** | 포즈가 고민될 땐 ? 포즈피커 ! | [🐈](https://github.com/posepicker) |
+|<sub>2022.12 ~ 23.02</sub> | **🥗 Eatda(잇다)** | 포즈가 고민될 땐 ? 포즈피커 ! | [🐈](https://github.com/eatda) |
 
 </div>
 </details>
