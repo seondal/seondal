@@ -10,6 +10,10 @@
    
   ---
 
+<details>
+<summary>Projects</summary>
+<div markdown="1">
+
 
 |출시|프로젝트|소개|바로가기|
 |:-:|:-|:-|:-:|
@@ -22,6 +26,8 @@
 |<sub>2023.08</sub> | **🐦 Team Info Table** | Team Info Table for Github Readme | [🐈](https://github.com/seondal/TIT) &nbsp; [🔗](https://team-info-table.seondal.kr) |
 |<sub>2023.07 ~ 24.10</sub> | **🪄 PosePicker** | 포즈가 고민될 땐 ? 포즈피커 ! | [🐈](https://github.com/posepicker) |
 
+</div>
+</details>
 
 <details>
 <summary>Activity</summary>
