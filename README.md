@@ -24,7 +24,7 @@
 |<sub>2024.10</sub> | **🐍 Auto Blog** | 네이버 블로그 목차 생성기 & 알고리즘 문제풀이 자동서식 | [🐈](https://github.com/seondal/AutoBlog) &nbsp; [🔗](https://auto-blog.seondal.kr) |
 |<sub>2023.09 ~ 24.06</sub> | **🎤 Pitch Finder** | 음역대 축정 기반 노래 필터링 서비스, 피치파인더 | [🐈](https://github.com/K-CoB/docs) &nbsp; [🔗](https://pitch-finder.seondal.kr) |
 |<sub>2023.08</sub> | **🐦 Team Info Table** | Team Info Table for Github Readme | [🐈](https://github.com/seondal/TIT) &nbsp; [🔗](https://team-info-table.seondal.kr) |
-|<sub>2023.07 ~ 24.10</sub> | **🪄 PosePicker** | 포즈가 고민될 땐 ? 포즈피커 ! | [🐈](https://github.com/posepicker) |
+|<sub>2023.07 ~ 24.10</sub> | **🪄 PosePicker** | 포즈가 고민될 땐 ? 포즈피커 ! | [🐈](https://github.com/posepicker) &nbsp; [🔗](https://posepicker.seondal.kr) |
 
 </div>
 </details>
