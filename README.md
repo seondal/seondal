@@ -45,6 +45,8 @@
 |<sub>2021.09 ~ 22.07</sub>| Google Developer Students Club Ewha | 3기 Core Member  |
 |<sub>2021.03 ~ 21.12</sub>| 교내 웹개발 커리어클럽 **EFUB** | 1기 프론트 |
 |-|-|-|
+|<sub>2025.01 ~ 25.06</sub> | **[Munice Inc.](https://github.com/munice-dev)** Web Developer | 인턴 | 
+|<sub>2023.03 ~ 23.06</sub> | **[Nuvilab](https://github.com/NuviLabs)** Frontend Engineer | 인턴 | 
 |<sub>2022.08</sub> | 연세대학교 목소리연구실 실험 웹 페이지 개발 | 외주 | 
 |<sub>2021.12</sub> | I Say Lab 언어연구소 홈페이지 개발 | 외주 | 
 
